@@ -5,8 +5,8 @@ This chatbot answers user questions by matching them with predefined FAQs using 
 
 The system intelligently finds the most relevant answer and displays it in a chat-style interface.
 
-![Uploading Screenshot 2026-02-24 233802.png…]()
-
+## 🌐 Live Demo  
+👉 https://anjali-faq-chatbot.streamlit.app/
 
 🚀 Features
 
